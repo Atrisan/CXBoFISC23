@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Continuous Integration in High-Performance Computing BoF Session
 
-You can use the [editor on GitHub](https://github.com/Atrisan/CXBoF.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Organizers
+Adrian Schmitz, RWTH Aachen University, NHR4CES
+Alexander Hück, TUDa, NHR4CES
+René Caspart, KIT, NHR
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Logistics and Agenda Overview
 
-### Markdown
+* Date: tbd
+* Place: Hybrid
+  * Inperson: tbd.
+  * Online: Zoom tbd.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Agenda
 
-```markdown
-Syntax highlighted code block
+- Intro
+- NHR CxaaS (Dr. René Caspart/Dr. Jennifer Buchmüller, KIT Germany)
+- Jacamar CI (Dr. James Willenbring, SNL US)
+- Time to Revisit Erasure Codes in Data-intensive Clusters (Dr. Shadi Ibrahim, Inria France)
+- CI + HPC at RIKEN (Dr. Hitoshi Murai, Dr. Yoshifumi Nakamura, RIKEN Japan)
+- Discussion
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### NHR CxaaS
+Description: tbd
+Slides: tbd
 
-1. Numbered
-2. List
+#### Jacamar CI 
+Description: tbd
+Slides: tbd
 
-**Bold** and _Italic_ and `Code` text
+#### Time to Revisit Erasure Codes in Data-intensive Clusters
+Description: tbd
+Slides: tbd
 
-[Link](url) and ![Image](src)
-```
+#### CI + HPC at RIKEN
+Description: tbd
+Slides: tbd
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Discussion
+We expect an extended discussion including the audience. Possible topics are:
+- Possible collaborations, e.g. Workshops, future BoFs, Jour Fixe meetings etc.
+- What are shared difficulties?
+- What are non-technical issues, e.g., legal constraints?  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atrisan/CXBoF.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
