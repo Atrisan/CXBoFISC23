@@ -1,9 +1,9 @@
 ## Continuous Integration in High-Performance Computing BoF Session
 
 ### Organizers
-Adrian Schmitz, RWTH Aachen University, NHR4CES
-Alexander Hück, TUDa, NHR4CES
-René Caspart, KIT, NHR
+* Adrian Schmitz, RWTH Aachen University, NHR4CES
+* Alexander Hück, TUDa, NHR4CES
+* René Caspart, KIT, NHR
 
 ### Logistics and Agenda Overview
 
