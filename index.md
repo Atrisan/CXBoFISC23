@@ -26,18 +26,22 @@
 
 #### NHR CxaaS
 Description: tbd
+
 Slides: tbd
 
 #### Jacamar CI 
 Description: tbd
+
 Slides: tbd
 
 #### Time to Revisit Erasure Codes in Data-intensive Clusters
 Description: tbd
+
 Slides: tbd
 
 #### CI + HPC at RIKEN
 Description: tbd
+
 Slides: tbd
 
 #### Discussion
