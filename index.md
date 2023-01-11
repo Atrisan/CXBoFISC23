@@ -34,11 +34,6 @@ Description: tbd
 
 Slides: tbd
 
-#### Time to Revisit Erasure Codes in Data-intensive Clusters
-Description: tbd
-
-Slides: tbd
-
 #### CI + HPC at RIKEN
 Description: tbd
 
