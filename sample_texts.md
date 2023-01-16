@@ -8,3 +8,7 @@ The goal of this BoF session is to bring together the developers of CI in HPC to
 
 By having invited talks from people developing CI in HPC solutions as well as invited talks from people presenting their use-cases for CI in HPC this should spark a discussion at least between the presenters. This discussion if not already integrating the audience will then be extended to the audience in terms of their needs/restrictions/ideas as a HPC user/provider or CI in HPC developers.
 The session is also structured towards an interactive discussion by starting with all invited talks and combining the Q and A parts for all talks. This should allow an interactive discussion to from naturally based on questions/comments from the audience. The discussion will be loosely guided to avoid going of topic while not restricting the discussion.
+
+
+
+The target audience for this BoF session are HPC users who are interested in using CI to test/benchmark their applications and HPC tools. We further target HPC providers interested in making CI available for their systems and users. CI in HPC developers are also targeted and are available through some invited talks.
