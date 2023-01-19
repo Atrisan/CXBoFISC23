@@ -16,11 +16,12 @@
 
 - Intro
 - NHR CxaaS (Dr. René Caspart/Dr. Jennifer Buchmüller, KIT Germany)
-- Jacamar CI (Dr. James Willenbring, SNL US)
+- Jacamar CI (Dr. James Willenbring, SNL US) (might also be a colleague)
 - CI + HPC at RIKEN (Dr. Hitoshi Murai, Dr. Yoshifumi Nakamura, RIKEN Japan)
-- (Trixi.js Simulations with CI (Dr. Michael Schlottke-Lakemper))
+- Trixi.jl Simulations with CI (Vert. Prof. Dr. Michael Schlottke-Lakemper)
 - (CI at Brunel UK (Dr. Edward Smith))
 - (Evaluating CERN Data automatically (Robin Sonnabend))
+- Q&A
 - Discussion
 
 
@@ -35,6 +36,11 @@ Description: tbd
 Slides: tbd
 
 #### CI + HPC at RIKEN
+Description: tbd
+
+Slides: tbd
+
+#### Trixi.jl Simulations with CI
 Description: tbd
 
 Slides: tbd
